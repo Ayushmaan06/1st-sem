@@ -1,0 +1,7 @@
+Minimum Salary: 50000
+Maximum Salary: 80000
+Average Salary: 66000
+
+Mean Age: 18
+Median Age: 50000
+Mod Age: 18

@@ -1,0 +1,8 @@
+write a cprogram to rotate an array to the right by k step     (k>0)
+write a c program to find all the leaders in an array
+	an element is a leader if it is greter than all the element to its right
+generate all possible permutation of an array element
+given an array of integers and a target value find 2 numbers such that they add up to the target
+intersection of array
+given an array of integers and a target value find 3 numbers such that they add up to the target
+find 2 element in array for which they have highest difference

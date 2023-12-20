@@ -1,0 +1,10 @@
+//w of person on moon given his wt on earth
+	revised mass of person based on his wt on earth. display his weight on any planet of ur choice.
+//compute salary of an employee on basis of his basic salary
+	salary =basix +da+hra
+			da= 0.42xbs   hra = .18xbs
+// m to f
+//ft to m
+//bmi<18.5 uw
+   18 24.9 healthy
+   <=25 overweight
